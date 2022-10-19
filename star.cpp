@@ -2,12 +2,26 @@
 using namespace std;
 int main()
 {
-    int i,a,j;
-    while (i=)
+    int a,c;
+    cin >>a;
+      cout<<"  *"<<endl;
+      cout<<" * *"<<endl;
+      cout<<"*   *"<<endl;
+      cout<<" * *"<<endl;
+      cout<<"  *"<<endl;     
+    
+  if (a>2)
+  {
+    for(int c=0;c<(a - 1);c++)
     {
-      cout<<" ";
+      cout<<" * *"<<endl;
+      cout<<"*   *"<<endl;
+      cout<< " * *"<<endl;
+      cout<<"  *"<<endl;
     }
+  }
     
 
 
-}
+}//？
+//我日了
